@@ -6,7 +6,7 @@
 
 | Name        | Description                              |
 |-------------|------------------------------------------|
-| Link 1      | Add description for saved link 1         |
+| https://www.uidesigndaily.com/      | Open-source ui designs like figma         |
 | Link 2      | Add description for saved link 2         |
 | Link 3      | Add description for saved link 3         |
 
